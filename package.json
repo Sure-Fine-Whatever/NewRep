@@ -1,0 +1,31 @@
+{
+  "name": "hm1",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "steam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sure-Fine-Whatever/NewRep.git"
+  },
+  "keywords": [
+    "TestCafe"
+  ],
+  "author": "t.pavlovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sure-Fine-Whatever/NewRep/issues"
+  },
+  "homepage": "https://github.com/Sure-Fine-Whatever/NewRep#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "error-stack-parser": "^2.1.4",
+    "resolve-url": "^0.2.1",
+    "source-map-resolve": "^0.6.0",
+    "source-map-url": "^0.4.1",
+    "testcafe": "^1.19.0",
+    "urix": "^0.1.0"
+  }
+}
