@@ -1,0 +1,25 @@
+{
+  "name": "hm1",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sure-Fine-Whatever/NewRep.git"
+  },
+  "keywords": [
+    "TestCafe"
+  ],
+  "author": "t.pavlovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sure-Fine-Whatever/NewRep/issues"
+  },
+  "homepage": "https://github.com/Sure-Fine-Whatever/NewRep#readme",
+  "dependencies": {
+    "testcafe": "^1.19.0"
+  }
+}
